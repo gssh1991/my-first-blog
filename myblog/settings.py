@@ -25,7 +25,7 @@ SECRET_KEY = 'jp$&!xvz&g(zpp8uy!&kmb)-unfa39&+fzur_512p3jm!_vpn3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<твоё_имя_пользователя>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'idispi.pythonanywhere.com']
 
 
 # Application definition
